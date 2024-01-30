@@ -1,0 +1,34 @@
+audio text taken from a TED interview
+link:https://www.youtube.com/watch?v=OM6XIICm_qo&t=25s
+
+I basically scribbled down what the HTML should be,
+hypertext protocol, HTTP.
+the idea of URLs, names for things
+that run on HTTP.
+I wrote the code and put it there
+
+Why did I do this?
+
+Well, it was just a frustration.
+I was frustrated. I work as a software engineer
+in this huge laboratory,
+with lots of people from all over.
+They brought all kinds of computers.
+they had all kinds of data in different formats.
+a whole different way of documenting.
+and then in all this diversity,
+to figure out how to build something
+without a little of this a little of that,
+with everything I saw I had to connect different machines,
+I had to learn how to run new programs,
+I looked for information in different formats
+and they were all incompatible.
+it was very frustrating.
+the frustration was due to the infinite possibilities.
+In fact, on all these discs there were documents
+So if you imagine all this
+being part of something much larger, a virtual document system,
+for example on the internet
+then life would be easier
+well when you have an idea like that it gives you chills
+even when no one reads what you write.

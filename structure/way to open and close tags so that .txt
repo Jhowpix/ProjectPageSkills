@@ -1,0 +1,45 @@
+way to open and close tags so that they are visible on the page
+
+<i> < </i><strong>  </strong><i> > </i>
+
+<i> < / </i><strong>  </strong><i> > </i>
+
+<i> < </i><strong>a</strong><i> > </i>
+
+<i> <  / </i><strong>a</strong><i>  > </i>
+
+<i> < </i><strong>p</strong><i> > </i>
+
+<i> < / </i><strong>p</strong><i>  > </i>
+
+<i> < </i><strong>b</strong><i> > </i>
+
+<i> < / </i><strong>b</strong><i> > </i>
+
+<i> < </i><strong>strong</strong><i> > </i>
+
+<i> < / </i><strong>strong</strong><i> > </i>
+
+create a link
+
+<i> < </i><strong>a</strong><i> > </i><a href=" "target="_blank"><i> < </i><strong>a</strong> <b>href=</b><i class="Green2">"text here"</i> <i> > </i>text here<i> < </i><strong>/a</strong><i> > </i></a><i> < / </i><strong>a</strong><i> > </i>
+
+<i> < / </i><strong>a</strong><i> / > </i>
+
+create img
+
+<img src="image here" alt=""><i> <  </i><strong>img</strong><b> src=</b><i class="Green2">"link image here"</i><i> > </i>
+
+<b> src=</b><i class="Green2">"text here" </i>
+
+<i class='Green2'>"text here"<i> > </i>
+
+create head link
+
+<i> < <i><strong> link </strong><b> href=</b><i class="Green2"> " text here "</i><b> rel=</b><i class="Green2"> " text here "</i><i> > </i>
+
+create head script
+
+<i> < <i><strong> script </strong><b> src=</b><i class="Green2"> " text here "</i><i> > </i><i> < / </i><strong>script</strong><i> > </i>
+
+by: Jhonatan de Oliveira Silva

@@ -1,0 +1,37 @@
+audio text taken from a TED interview
+version portugues-Brasil
+link:https://www.youtube.com/watch?v=OM6XIICm_qo&t=25s
+
+1:05(time video)
+basicamente rabisquei o que o HTML deveria ser, 
+protocolo de hipertexto, HTTP.
+a ideia de URLs, nomes para as coisas
+que rodam com HTTP.
+eu escrevi o codigo e coloquei ali
+
+por que eu fiz isso?
+
+bem, era um frustacao so.
+eu era frustrado. eu trabalha como engenheiro de sofware
+nesse laboratorio imenso,
+com varias pessoas de todo lugar.
+trouxeram todo tipo de computador.
+tinham todo tipo de dado em diferentes formatos.
+toda uma forma diferente de documentar.
+e entao nesta diversidade toda,
+para descobrir como construir algo
+sem um pouca disso um pouco daquilo,
+com tudo que vi tive que conectar maquinas diferentes,
+eu tive que aprender a rodar novos programas,
+eu procurei a informacao em diversos formatos
+e eram todos incopativeis.
+foi muito frustante.
+a frustracao era por conta das infinitas possibilidades.
+de fato em todos estes discos haviam documentos
+entao se imaginar tudo isso
+sendo parte de algo muito maior um sistema de documentos virtuais,
+por exmplo na internet
+entao a vida seria mais facil
+bem quando voce tem uma ideai dessas ela te arrepia
+mesmo quando ninguem le oque voce escreve.
+2:22(time video)
