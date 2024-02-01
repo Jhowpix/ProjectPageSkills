@@ -5,4 +5,4 @@ However, it has navigation functions such as opening hidden images, video and au
 <img src="/structure/imgHomeAudioExemple.png"><br>
 Tell us a little about Tim Berners-Lee and with his words we discover why he created the web.</p>
 
-<h2>Link <a href="https://jhowpix.github.io/ProjectPageSkills/";></a></h2>
+<h2>Link to this page<br> <a href="https://jhowpix.github.io/ProjectPageSkills/";> jhowpix.github.io </a></h2>
