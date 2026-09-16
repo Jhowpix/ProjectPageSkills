@@ -34,22 +34,6 @@ During this project I practiced concepts such as:
 - Organizing files and folders
 - Connecting HTML, CSS and JavaScript
 
-## Project Structure
-
-```text
-ProjectPageSkills/
-│
-├── css/
-├── html/
-├── img/
-├── js/
-├── sounds/
-├── src/
-├── structure/
-├── index.html
-└── README.md
-
-
 <img src="/structure/imgHome.png">
 
 <p> <img src="/structure/imgHomeAudioExemple.png"><br>
