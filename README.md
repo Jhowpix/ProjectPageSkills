@@ -1,16 +1,54 @@
+# Project Page Skills
 
-### Eu mudaria uma coisa importante
+A small project created to practice and improve my skills in **HTML, CSS and JavaScript**.
 
-Nesse README eu **não usaria a mesma ideia de "open for the DayZ community"** dos seus mods.
+This project is part of my learning journey and was created to experiment with web development, page structure, styling and interactive features.
 
-Aqui a proposta é outra:
+## About the Project
 
-> **"This repository represents a step in my learning process."**
+The page was designed with a layout inspired by the **Visual Studio Code** interface.
 
-Isso combina muito melhor com o projeto. Ele mostra **o processo de aprendizagem**, enquanto `DonutsZombies` e `DonutsCookingAndFoods` podem mostrar sua capacidade de **criar e compartilhar projetos com uma comunidade**.
+The main goal was not to create a professional application, but to practice different web development concepts while building something interactive.
 
-E tem outro detalhe interessante: você já colocou a página publicada no GitHub Pages dentro do próprio repositório. :contentReference[oaicite:1]{index=1} Isso vale a pena manter no README, porque transforma o repositório de simplesmente **"código de estudo"** em **"código + resultado que pode ser acessado"**.
+The project includes:
 
+- HTML structure
+- CSS styling
+- JavaScript interactions
+- Navigation between sections
+- Hidden images
+- Video and audio elements
+- Basic page organization
+- Interactive elements
+
+## What I Practiced
+
+During this project I practiced concepts such as:
+
+- HTML tags and page structure
+- Links and navigation
+- CSS layout and styling
+- JavaScript interactions
+- Working with images
+- Audio and video
+- Organizing files and folders
+- Connecting HTML, CSS and JavaScript
+
+## Project Structure
+
+
+ProjectPageSkills/
+│
+├── css/
+├── html/
+├── img/
+├── js/
+├── sounds/
+├── src/
+├── structure/
+├── index.html
+└── README.md
+'''
 
 <img src="/structure/imgHome.png">
 <p>Another project created as a practice for studying and fixing content such as teg html css and javascript.
